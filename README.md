@@ -4,9 +4,7 @@
 Напишите на языке Java метод класса Tournament, который посчитает сколько нужно провести игр в турнире для заданного количества команд.
 
 class Tournament {
-    public int numberOfGames(int x) {
-		
-    }
+    public int numberOfGames(int x) {}
 }
 
 Где x — количество команд в турнире.
